@@ -8,6 +8,7 @@ Contributions by:
  * hank-cp
  * singpolyma
  * JVillella
+ * Letroll
 
 ##Capabilities
 
